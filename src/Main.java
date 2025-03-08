@@ -20,6 +20,11 @@ public class Main {
         System.out.println("O salario do funcionario é: " + funcionario.valorSalarioFuncionario);
         System.out.println("O cargo do funcionario é: " + funcionario.cargoFuncionario);
 
+
+        System.out.println(empresa.cargoFuncionario.);
+
+
+
         int aumento = 120;
         int salarioFuncionario = 1512;
 
