@@ -13,6 +13,10 @@ public class Main {
         System.out.println("O funcionario trabalha no: " + empresa.cargoFuncionario);
 
 
+        //Testando a nova Branch
+        EmpresaSetor empresa = new EmpresaSetor();
+        System.out.println(empressaSetor.nomeSetorJuridico);
+        System.out.println(empressaSetor.nomeSetorRH);
 
 
         Funcionario funcionario = new Funcionario();
