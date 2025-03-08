@@ -14,9 +14,9 @@ public class Main {
 
 
         //Testando a nova Branch
-        EmpresaSetor empresa = new EmpresaSetor();
-        System.out.println(empressaSetor.nomeSetorJuridico);
-        System.out.println(empressaSetor.nomeSetorRH);
+        EmpresaSetor empresaSetor = new EmpresaSetor();
+        System.out.println(empresaSetor.nomeSetorJuridico);
+        System.out.println(empresaSetor.nomeSetorRH);
 
 
         Funcionario funcionario = new Funcionario();
